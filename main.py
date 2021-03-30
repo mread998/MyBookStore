@@ -1,16 +1,19 @@
-# This is a sample Python script.
+from tkinter import *
+"""
+Program will store book information
+Title, Author
+Year, ISBN
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+User can:
 
+View records
+Search for an item
+Add an item
+Update an item
+Delete an item
+Close App
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+See image layout
+"""
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+mainloop()
